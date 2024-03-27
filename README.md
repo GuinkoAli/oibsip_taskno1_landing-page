@@ -7,7 +7,7 @@ This is a single page created with Bootstrap (HTML, css), It is fully respondive
 * css - Bootstrap CSS based design template
 * js - JavaScript Plugin
 # installation 
-- Clone or Download this repository 1
+- Clone or Download this repository 
 - Open the landing-page.html file in your browser
 # Authors
 Guinko Ozeifa Ali
