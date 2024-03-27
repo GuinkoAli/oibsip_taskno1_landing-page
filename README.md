@@ -1,5 +1,5 @@
 # READ ME
-# ** Landing Page **
+# ** Landing Page
 This is a single page created with Bootstrap (HTML, css), It is fully respondive acrooss different scrren sizes.
 # Files Included
 * landing-page.html- The HTML page content
