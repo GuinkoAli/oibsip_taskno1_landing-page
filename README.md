@@ -13,7 +13,6 @@ This is a single page created with Bootstrap (HTML, css), It is fully respondive
 # Technologies Used
 - HTML 5 sementics
 - Css
-- Bootstrap flexbox for layout
 - Bootstrap grid system for responsiveness
 # installation 
 - Clone or Download this repository 
