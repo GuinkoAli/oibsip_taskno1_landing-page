@@ -6,5 +6,9 @@ This is a single page created with Bootstrap (HTML, css), It is fully respondive
 * landing-page.css - Stylesheet containing all the CSS
 * css - Bootstrap CSS based design template
 * js - JavaScript Plugin
-
+#### installation 
+- Clone or Download this repository 1
+- Open the landing-page.html file in your browser
+##### Authors
+Guinko Ozeifa Ali
 
