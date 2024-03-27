@@ -7,9 +7,9 @@ This is a single page created with Bootstrap (HTML, css), It is fully respondive
 * css - Bootstrap CSS based design template
 * js - JavaScript Plugin
 # Responsive Design
--Mobile portrait/landscape
--tablet
--Desktop
+- Mobile portrait/landscape
+- tablet
+- Desktop
 # installation 
 - Clone or Download this repository 
 - Open the landing-page.html file in your browser
